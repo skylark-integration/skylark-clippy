@@ -10,7 +10,7 @@
   "homepage": "https://github.com/skylark-integration/skylark-clippy/",
   "author": "Hudaokeji, Inc.",
   "scripts": {
-    "build":"slib build ."
+    "build": "slib build ."
   },
   "repository": {
     "type": "git",
